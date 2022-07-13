@@ -2,7 +2,7 @@ class ApachePulsarShell < Formula
     desc "Shell for Apache Pulsar"
     homepage "https://pulsar.apache.org"
     url "https://github.com/nicoloboschi/homebrew-apache-pulsar-shell/releases/download/v0.1.0/apache-pulsar-shell-2.10.1.1-SNAPSHOT-shell.tar.gz"
-    sha256 "44c13e295149d53f33116a68772c7bb008ecbdc3016de2968be8d6a142b6e21c"
+    sha256 "9cdd8bc0e0327b8d16274439b486cdb14fae10dd699ce51a7be8c0f69ef24201"
     license "Apache-2.0"
   
     depends_on "openjdk"
