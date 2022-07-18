@@ -1,8 +1,8 @@
 class Shell < Formula
     desc "Shell for Apache Pulsar"
     homepage "https://pulsar.apache.org"
-    url "https://github.com/nicoloboschi/homebrew-apache-pulsar-shell/releases/download/v0.1.0/apache-pulsar-shell-2.10.1.1-SNAPSHOT-shell.tar.gz"
-    sha256 "9cdd8bc0e0327b8d16274439b486cdb14fae10dd699ce51a7be8c0f69ef24201"
+    url "https://github.com/datastax/pulsar/releases/download/ls210_1.1/lunastreaming-shell-2.10.1.1-bin.tar.gz"
+    sha256 "3067d06b7bf45ecd1e887ffe9bebbf2d3c747561967811ee1b3c37be27fb4135"
     license "Apache-2.0"
   
     depends_on "openjdk"
