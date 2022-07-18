@@ -1,4 +1,4 @@
-class ApachePulsarShell < Formula
+class Shell < Formula
     desc "Shell for Apache Pulsar"
     homepage "https://pulsar.apache.org"
     url "https://github.com/nicoloboschi/homebrew-apache-pulsar-shell/releases/download/v0.1.0/apache-pulsar-shell-2.10.1.1-SNAPSHOT-shell.tar.gz"
